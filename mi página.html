@@ -65,7 +65,7 @@
     <p>¡Hola! Mi nombre es Isaak Vidal y esta página es un tributo a mis padres.</p>
 
 <center>
-<img src="C:\Users\ISAAK\OneDrive\Documentos\Aplicaciones web\Uhme.jpg" alt="Descripción de la imagen" width="280" height="300" style="border-radius: 50%;" ><Br><Br>
+<img src="Uhme.jpg" alt="Descripción de la imagen" width="280" height="300" style="border-radius: 50%;" ><Br><Br>
 </center>
 
 
@@ -93,7 +93,7 @@ Actualmente tiene 45 años y admiro todo el esfuerzo que hace, se encarga de la 
 
 
 </p>
-        <img src="C:\Users\ISAAK\OneDrive\Documentos\Aplicaciones web\mom.jpg" alt="Imagen de Mamá" width="280" height="300" style="border-radius: 50%;" >
+        <img src="mom.jpg" alt="Imagen de Mamá" width="280" height="300" style="border-radius: 50%;" >
 	</center>
     </div>
 
@@ -106,7 +106,7 @@ A pesar de todo lo anterior, también es muy cariñoso y gracioso y trata de hal
 
 Actualmente tiene 42 años y trabaja como supervisor. <Br>
 </p>
-        <img src="C:\Users\ISAAK\OneDrive\Documentos\Aplicaciones web\dad.jpg" alt="Imagen de Papá width="280" height="300" style="border-radius: 50%;">
+        <img src="dad.jpg" alt="Imagen de Papá width="280" height="300" style="border-radius: 50%;">
 	</center>
     </div>
 
