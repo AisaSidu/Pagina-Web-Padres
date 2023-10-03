@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <title style="font-size: 24px; font-family: 'Lexend', cursive;">Isaak Vidal</title>
@@ -93,6 +92,7 @@ Actualmente tiene 45 años y admiro todo el esfuerzo que hace, se encarga de la 
 
 
 </p>
+	<center>
         <img src="mom.jpg" alt="Imagen de Mamá" width="280" height="300" style="border-radius: 50%;" >
 	</center>
     </div>
@@ -106,7 +106,8 @@ A pesar de todo lo anterior, también es muy cariñoso y gracioso y trata de hal
 
 Actualmente tiene 42 años y trabaja como supervisor. <Br>
 </p>
-        <img src="dad.jpg" alt="Imagen de Papá width="280" height="300" style="border-radius: 50%;">
+	<center>
+        <img src="dad.jpg" alt="Imagen de Papá" width="280" height="300" style="border-radius: 50%;" > 
 	</center>
     </div>
 
