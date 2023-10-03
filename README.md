@@ -58,7 +58,9 @@
     </style>
 </head>
 <body>
+	<center>
     <h1>Bienvenido</h1>
+	</center>
 
     <!-- Texto de introducción -->
     <p>¡Hola! Mi nombre es Isaak Vidal y esta página es un tributo a mis padres.</p>
@@ -73,12 +75,14 @@
         <!-- Texto -->
         <p>Este soy yo, nací el 16 de diciembre del 2002 en Estados Unidos, Indiana. Mis padres son Armando Vidal y Normallín García, siendo yo su primer hijo y hermano mayor de mis hermanos, actualmente soy estudiante de universidad y me gusta mucho el pan.</p>
     </div>
-
+	<center>
     <!-- Botón para Mamá -->
     <div class="boton" onclick="mostrarContenido('mama')">Mamá</div>
-
+    	</center>
+	<center>
     <!-- Botón para Papá -->
     <div class="boton" onclick="mostrarContenido('papa')">Papá</div>
+    	</center>
 
     <!-- Contenido para Mamá -->
 	<center>
@@ -124,5 +128,4 @@ Actualmente tiene 42 años y trabaja como supervisor. <Br>
             }
         }
     </script>
-</body>
-</html>
+
